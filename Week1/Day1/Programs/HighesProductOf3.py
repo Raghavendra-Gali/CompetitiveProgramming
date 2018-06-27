@@ -7,19 +7,9 @@ def highest_product_of_3(list_of_ints):
     if len(list_of_ints)<3:
         raise valueError("Length less than 3")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+    list_of_ints.sort()
+    n=len(list_of_ints)
+    return list_of_ints[n-1]*list_of_ints[n-2]*list_of_ints[n-3]
 
 
 
