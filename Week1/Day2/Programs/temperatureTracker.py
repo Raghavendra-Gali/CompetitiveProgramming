@@ -26,7 +26,7 @@ class TempTracker(object):
                 self.mx=temperature
         temp=self.freqs[temperature]+1
         self.freqs[temperature]=temp
-        if x>self.occurance:
+        if temp>self.occurance:
             self.occurance=temp
             self.mode = temperature
         self.totalTemps+=temperature
