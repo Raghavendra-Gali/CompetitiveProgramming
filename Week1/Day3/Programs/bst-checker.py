@@ -2,7 +2,6 @@ import unittest
 
 
 def is_binary_search_tree(root):
-
     # Determine if the tree is a valid binary search tree
     if root==None:
         return True
