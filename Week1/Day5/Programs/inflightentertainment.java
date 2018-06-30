@@ -6,7 +6,6 @@ import java.util.HashMap;
 import static org.junit.Assert.*;
 
 public class Solution {
-
     public static boolean canTwoMoviesFillFlight(int[] movieLengths, int flightLength) {
 
         // determine if two movies add up to the flight length
