@@ -1,29 +1,38 @@
 import unittest
-def String_in_place(message,initial,final):
-	# print(message[initial:final])
-	# print(initial,final)
-	while initial<final:
-		temp = message[initial]
-		message[initial] = message[final]
-		message[final] = temp
-		initial+=1
-		final-=1
+def String_in_place(message,initial,mid,final):
+	r=final
+	# print(message[initial:mid])
+	for j in range(initial,mid):
+		temp = message[r]
+		message[r] = message[j]
+		message[j] = temp 
+		r-=1
+	print(message)
 
 def reverse_words(message):
     # Decode the message by reversing the words
-    String_in_place(message,0,len(message)-1)
-    final = True
-    count=0
+    k=len(message)//2
+    if k%2==0:
+        k-=1
+    c=0
+    i=0
     for i in range(len(message)):
     	if message[i] == ' ':
-    		final=False
-    		String_in_place(message,count,i-1)
-    		count=i+1
-    if final:
-    	String_in_place(message,0,len(message)-1)
-    	return 
-    if count<len(message)-1:
-    	String_in_place(message,count,len(message)-1)
+    		r=i-1
+    		md = (c+(i+1))//2
+    		if md%2==0:
+    			md-=1
+    		String_in_place(message,c,md,i-1)
+    		c=i+1
+    	elif i==len(message)-1:
+    		r=c
+    		md = (c+len(message))//2
+    		if md%2==0:
+    			md-=1
+    		String_in_place(message,c,md,i)
+    print(i)
+    String_in_place(message,0,k,i)
+    return message
 
 
 class Test(unittest.TestCase):
@@ -66,5 +75,3 @@ class Test(unittest.TestCase):
 
 
 unittest.main(verbosity=2)
-
-print(reverse_words(list('thief cake')))
