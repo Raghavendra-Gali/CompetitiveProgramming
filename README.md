@@ -9,7 +9,7 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
      <tr>
        <th> Week </th>
        <th> Day </th>
-       <th> Programs </th>
+       <th style="orientation:center;"> Programs </th>
     </tr>
     <tr>
       <th> Week 1 </th>
