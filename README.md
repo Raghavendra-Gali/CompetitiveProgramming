@@ -18,7 +18,6 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
        <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighesProductOf3.py">HighestProductOf3 </th>
  <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighestProductOfAllOtherNumbers.py">HighestProductOfAllOtherNumbers </th>
     <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/MergingMeetingTimes.py">MergingMeetingTimes</th>
-   
     </tr>
     
   </table>
