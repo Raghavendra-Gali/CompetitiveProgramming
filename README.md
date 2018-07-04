@@ -12,7 +12,7 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
        <th colspan="3"> Programs </th>
     </tr>
     <tr>
-      <th> Week 1 </th>
+      <th> 1 </th>
       <th> 1 </th>
       <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/AppleStock.py">Apple Stock       </th>
        <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighesProductOf3.py">HighestProductOf3 </th>
