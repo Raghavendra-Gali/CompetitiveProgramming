@@ -15,6 +15,7 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
       <th> Week 1 </th>
       <th> 1 </th>
       <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/AppleStock.py">Apple Stock </th>
+       <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighesProductOf3.py">HighestProductOf3 </th>
     </tr>
   </table>
   
