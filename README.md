@@ -12,8 +12,9 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
        <th> Programs </th>
     </tr>
     <tr>
+      <th> Week 1 </th>
       <th> 1 </th>
-      <th> 1 </th>
+      <th> Apple Stock </th>
     </tr>
   </table>
   
