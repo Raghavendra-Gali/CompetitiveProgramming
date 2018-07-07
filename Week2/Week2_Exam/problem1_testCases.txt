@@ -1,0 +1,29 @@
+anagram 
+nagaram 
+true
+Keep 
+Peek 
+true
+Mother In Law 
+Hitler Woman 
+true
+School Master 
+The Classroom 
+true
+ASTRONOMERS 
+NO MORE STARS 
+true
+Toss 
+Shot 
+false
+joy 
+enjoy 
+false
+Debit Card 
+Bad Credit 
+true
+SiLeNt CAT 
+LisTen AcT 
+true
+Dormitory 
+Dirty Room true
