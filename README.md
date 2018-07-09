@@ -15,9 +15,9 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
       <th> 1 </th>
       <th> 1 </th>
       <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/AppleStock.py">Apple Stock       </th>
-       <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighesProductOf3.py">HighestProductOf3 </th>
+       <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighesProductOf3.py">HighstPrdctOf3 </th>
  <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/HighestProductOfAllOtherNumbers.py">HighstPrdctOfAllOtherNmbrs </th>
-    <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/MergingMeetingTimes.py">MergingMeetingTimes</th>
+    <th> <a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day1/Programs/MergingMeetingTimes.py">MrgngMtngTms</th>
     </tr>
     <tr>
     <th> 1 </th>
@@ -35,6 +35,15 @@ Finally 4th week problem set from www.Hackerrank.com .This involves exams over t
         <th>NONE</th>
       <th>NONE</th>
     </tr>
+    <tr>
+      <th>1</th>
+  <th>4</th>
+  <th><a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day4/Programs/2ndHighestElement.py">2<sup>nd</sup>HighestElement</th>
+    <th><a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day4/Programs/million.py">
+      MillionZillion</th>
+      <th><a href="https://github.com/Raghavendra-Gali/CompetitiveProgramming/blob/master/Week1/Day4/Programs/find-in-ordered-set.py">FndInOrrdSet</th>
+      <th>NONE</th>
+  </tr>
   </table>
   <h5>Further table is under construction</h5>
          
