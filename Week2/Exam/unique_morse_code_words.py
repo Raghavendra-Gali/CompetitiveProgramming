@@ -33,7 +33,8 @@ morse_code = {"A":".-",
 "Z" :"--.."
 }
 
-sentence = [["gin", "zen", "gig", "msg"],["a", "z", "g", "m"], ["bhi", "vsv", "sgh", "vbi"],["a", "b", "c", "d"],["hig", "sip", "pot"]]
+sentence = [["gin", "zen", "gig", "msg"],["a", "z", "g", "m"], ["bhi", "vsv", "sgh", "vbi"],
+	    ["a", "b", "c", "d"],["hig", "sip", "pot"]]
 
 
 for words in sentence:
